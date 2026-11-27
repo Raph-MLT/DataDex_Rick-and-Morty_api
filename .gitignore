@@ -1,0 +1,9 @@
+*.exe
+*.out
+DataDex_Rick-and-Morty_api
+datadex
+.env
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
